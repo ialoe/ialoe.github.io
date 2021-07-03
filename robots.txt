@@ -1,0 +1,28 @@
+User-agent: *
+Allow: /
+Allow: /*
+Allow: /about/
+Allow: /archives/
+Allow: /artitalk/
+Allow: /categories/
+Allow: /classify/
+Allow: /contact/
+Allow: /friends/
+Allow: /galleries/
+Allow: /navigate/
+Allow: /page/
+Allow: /posts/
+Allow: /supervise/
+Allow: /tags/
+Allow: /time/
+
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /js/
+Disallow: /lib/
+Disallow: /libs/
+Disallow: /live2dw/
+Disallow: /medias/
+
+Sitemap: https://blog.islu.cn/sitemap.xml
+Sitemap: https://blog.islu.cn/baidusitemap.xml
